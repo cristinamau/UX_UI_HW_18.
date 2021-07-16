@@ -74,7 +74,7 @@ li a:hover {
     margin-bottom: 80px;
 }
 
-.wrapper {
+.workGrid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     column-gap: 50px;
